@@ -9,3 +9,5 @@ filters:
 
 keyed_groups:
      - key: tags
+     - key: instance_type
+     
